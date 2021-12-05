@@ -1,0 +1,16 @@
+[
+    {
+        "id": "schema1",
+        "name": "Some schema",
+        "description": "Marketing catalog import schema",
+        "allowedFileExtensions": [ "csv" ],
+        "url": "http://localhost/api/schemas/schema1"
+    },
+    {
+        "id": "schema2",
+        "name": "Another schema",
+        "description": "Finance import schema",
+        "allowedFileExtensions": [ "csv" ],
+        "url": "http://localhost/api/schemas/schema2"
+    }
+]
