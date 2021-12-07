@@ -1,9 +1,0 @@
-[
-    {
-        "id": "team1",
-        "name": "Engineering",
-        "primaryUser": "user1",
-        "users": [ "user1", "user2" ],
-        "schemas": [ "schema1", "schema2" ]
-    }
-]
